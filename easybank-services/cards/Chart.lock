@@ -3,4 +3,4 @@ dependencies:
   repository: file://../../easybank-common
   version: 0.1.0
 digest: sha256:0660b1bedda2da149f73cab639dedffe6ae7b4ed613146294da280eb67b9f42f
-generated: "2023-12-27T08:26:56.883496979+05:30"
+generated: "2023-12-27T18:41:29.068242429+05:30"
